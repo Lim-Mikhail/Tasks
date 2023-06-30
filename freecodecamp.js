@@ -11,7 +11,7 @@ a = 7
   
 // 4
 var a
-var b = a
+var b = a 
    
 // 5
 var myVar = 0;

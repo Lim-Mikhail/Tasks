@@ -1,6 +1,6 @@
 // 1
 /* This is a
-multi-line comment */  
+multi-line comment */   
  
 // 2 
 var myName;  

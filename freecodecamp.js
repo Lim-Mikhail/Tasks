@@ -9,7 +9,7 @@ var myName;
 var a;   
 a = 7        
    
-// 4 
+// 4  
 var a 
 var b = a 
    

@@ -1,4 +1,4 @@
-// 1
+// 1 
 function getChar(param) {
     return String.fromCharCode(param) 
 }  

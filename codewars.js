@@ -5,7 +5,7 @@ function getChar(param) {
    
                                           
 // 3                                      
-function greet(name) {                                    
+function greet(name) {                                     
   if (name === "Johnny") {                   
     return "Hello, my love!";                              
   }             
@@ -207,6 +207,3 @@ function accum(s) {
     .map((char, index) => char.toUpperCase() + char.toLowerCase().repeat(index))
     .join('-');
 }
-
-
-

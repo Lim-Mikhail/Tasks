@@ -194,7 +194,7 @@ function findNeedle(haystack) {
 
 
 // 19
-function addBinary(a, b) {
+function addBinary(a, b) { 
   const sum = a + b;
   return sum.toString(2);
 }
